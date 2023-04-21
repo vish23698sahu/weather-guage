@@ -8,6 +8,8 @@ export const windData = [
         "fri": 3,
         "sat": 2,
         "sun": 1,
+        "prevW": 1,
+        "thisW": 2,
     },
     {
         "time": "2:00",
@@ -18,6 +20,8 @@ export const windData = [
         "fri": 10,
         "sat": 2,
         "sun": 3,
+        "prevW": 3,
+        "thisW": 4,
     },
     {
         "time": "3:00",
@@ -28,6 +32,8 @@ export const windData = [
         "fri": 2,
         "sat": 3,
         "sun": 4,
+        "prevW": 0,
+        "thisW": 1,
     },
     {
         "time": "4:00",
@@ -38,6 +44,8 @@ export const windData = [
         "fri": 1,
         "sat": 3,
         "sun": 3,
+        "prevW": 9,
+        "thisW": 0,
     },
     {
         "time": "5:00",
@@ -48,6 +56,8 @@ export const windData = [
         "fri": 1,
         "sat": 2,
         "sun": 0,
+        "prevW": 8,
+        "thisW": 2,
     },
     {
         "time": "6:00",
@@ -58,6 +68,8 @@ export const windData = [
         "fri": 1,
         "sat": 2,
         "sun": 2,
+        "prevW": 4,
+        "thisW": 3,
     },
     {
         "time": "7:00",
@@ -68,6 +80,8 @@ export const windData = [
         "fri": 1,
         "sat": 2,
         "sun": 3,
+        "prevW": 4,
+        "thisW": 6,
     },
     {
         "time": "8:00",
@@ -78,6 +92,8 @@ export const windData = [
         "fri": 1,
         "sat": 5,
         "sun": 3,
+        "prevW": 5,
+        "thisW": 2,
     },
     {
         "time": "9:00",
@@ -88,6 +104,8 @@ export const windData = [
         "fri": 1,
         "sat": 9,
         "sun": 3,
+        "prevW": 10,
+        "thisW": 3,
     },
     {
         "time": "10:00",
@@ -98,6 +116,8 @@ export const windData = [
         "fri": 1,
         "sat": 8,
         "sun": 3,
+        "prevW": 9,
+        "thisW": 8,
     },
     {
         "time": "11:00",
@@ -108,6 +128,8 @@ export const windData = [
         "fri": 1,
         "sat": 6,
         "sun": 3,
+        "prevW": 2,
+        "thisW": 1,
     },
     {
         "time": "12:00",
@@ -118,6 +140,8 @@ export const windData = [
         "fri": 1,
         "sat": 3,
         "sun": 3,
+        "prevW": 3,
+        "thisW": 7,
     },
     {
         "time": "13:00",
@@ -128,6 +152,8 @@ export const windData = [
         "fri": 1,
         "sat": 1,
         "sun": 3,
+        "prevW": 7,
+        "thisW": 4,
     },
     {
         "time": "14:00",
@@ -138,6 +164,8 @@ export const windData = [
         "fri": 1,
         "sat": 10,
         "sun": 3,
+        "prevW": 2,
+        "thisW": 1,
     },
     {
         "time": "15:00",
@@ -148,6 +176,8 @@ export const windData = [
         "fri": 1,
         "sat": 0,
         "sun": 3,
+        "prevW": 5,
+        "thisW": 6,
     },
     {
         "time": "16:00",
@@ -158,6 +188,8 @@ export const windData = [
         "fri": 1,
         "sat": 2,
         "sun": 3,
+        "prevW": 7,
+        "thisW": 4,
     },
     {
         "time": "17:00",
@@ -168,6 +200,8 @@ export const windData = [
         "fri": 1,
         "sat": 2,
         "sun": 3,
+        "prevW": 1,
+        "thisW": 3,
     },
     {
         "time": "18:00",
@@ -178,6 +212,8 @@ export const windData = [
         "fri": 1,
         "sat": 2,
         "sun": 3,
+        "prevW": 10,
+        "thisW": 9,
     },
     {
         "time": "19:00",
@@ -188,6 +224,8 @@ export const windData = [
         "fri": 1,
         "sat": 2,
         "sun": 3,
+        "prevW": 1,
+        "thisW": 2,
     },
     {
         "time": "20:00",
@@ -198,6 +236,8 @@ export const windData = [
         "fri": 1,
         "sat": 1,
         "sun": 3,
+        "prevW": 8,
+        "thisW": 5,
     },
     {
         "time": "21:00",
@@ -208,6 +248,8 @@ export const windData = [
         "fri": 1,
         "sat": 9,
         "sun": 3,
+        "prevW": 4,
+        "thisW": 2,
     },
     {
         "time": "22:00",
@@ -218,6 +260,8 @@ export const windData = [
         "fri": 1,
         "sat": 3,
         "sun": 3,
+        "prevW": 9,
+        "thisW": 1,
     },
     {
         "time": "23:00",
@@ -228,6 +272,8 @@ export const windData = [
         "fri": 1,
         "sat": 2,
         "sun": 3,
+        "prevW": 3,
+        "thisW": 2,
     },
     {
         "time": "24:00",
@@ -238,6 +284,8 @@ export const windData = [
         "fri": 1,
         "sat": 5,
         "sun": 3,
+        "prevW": 5,
+        "thisW": 6,
     },
 ]
 

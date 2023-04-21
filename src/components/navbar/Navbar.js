@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 
-const Navbar = () => {
+const Navbar = (props) => {
     return (
         <div className='nav__container'>
             <div className='nav__items'>
@@ -11,7 +11,7 @@ const Navbar = () => {
                 <Link to='/windiest-day' className='nav__item3' >WIND GUAGE</Link>
             </div>
             <div className='nav__dark'>
-                <button className='dark__btn'>DARK MODE</button>
+                <button className='dark__btn' onClick={props.onThemeClick} >{props.btnVal.toUpperCase()}</button>
             </div>
         </div>
     )
