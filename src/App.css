@@ -3,8 +3,18 @@
   color: black;
 }
 
-
 .dark-theme{
   background-color: black;
   color: white;
+}
+
+.link{
+  margin-left: 4%;
+  padding: 10px 10px;
+  text-decoration: none;
+  border: 2px solid rgb(3, 2, 31);
+  background-color: rgb(6, 6, 65);
+  color: white;
+  font-weight: 500;
+  border-radius: 5px;
 }

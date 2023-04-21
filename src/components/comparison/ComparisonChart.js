@@ -167,8 +167,9 @@ const ComparisionChart = () => {
                     </AreaChart>
                 </ResponsiveContainer>
             </div>
+            <br />
 
-            <Link to='/'>Go Back Home</Link>
+            <Link to='/' className='link'>Go Back Home</Link>
         </div>
     )
 }

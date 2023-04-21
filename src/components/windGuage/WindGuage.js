@@ -81,8 +81,10 @@ const WindiestDays = () => {
                     </AreaChart>
                 </ResponsiveContainer>
             </div>
+            <br />
+            <br />
 
-            <Link to='/' >Go Back Home</Link>
+            <Link to='/' className='link' >Go Back Home</Link>
         </div>
     )
 }
