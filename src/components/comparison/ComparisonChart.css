@@ -1,0 +1,24 @@
+.color{
+color: #c1f5f4;
+color: #a9ed96;
+color: #e68585;
+}
+
+
+.rdrCalendarWrapper {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .rdrSelected {
+    background-color: #c4e9c5 !important;
+    color: white !important;
+  }
+  
+  .rdrInRange {
+    background-color: #a5d6a7 !important;
+  }
+
+
+
